@@ -5,10 +5,8 @@
 #include <string.h>
 #include <stdlib.h>
 
-/*     Name  : Rishabh Ghosh 3rd SEM C.E       */
-/*     No	 : IU1541050012                    */
-
-/*     Made in Dev C++ 5.11                    */  
+// Rishabh Ghosh    
+// Made in Dev C++ 5.11           
 
 using namespace std;
 class donor
